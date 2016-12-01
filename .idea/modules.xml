@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial_external.iml" filepath="$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial_external.iml" group="rapidminer-extension-tutorial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial_main.iml" group="rapidminer-extension-tutorial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rapidminer-extension-tutorial_test.iml" group="rapidminer-extension-tutorial" />
+    </modules>
+  </component>
+</project>

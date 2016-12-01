@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rapidminer:rapidminer-api:0.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rapidminer/rapidminer-api/0.2.0/280dd99a29339df77760aa6613e91971d6fe61f2/rapidminer-api-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rapidminer/rapidminer-api/0.2.0/1f45250f2f2c3e7be95db1f4835fbecbd7b8180/rapidminer-api-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
